@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* O box-sizing border-box vai fazer com que o padding não aumente
+   o height nem o width de um elemento assim não aumentando o seu tamanho */
+
+  /* Vai fazer um padding interno no elemento assim diminuindo o tamanho do contéudo
+    dentro dele */
+  box-sizing: border-box;
+}
+
+body {
+  background: #E6ECF0;
+  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+.app {
+  width: 300px;
+  padding: 20px;
+}
