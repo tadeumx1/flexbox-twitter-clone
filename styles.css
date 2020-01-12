@@ -16,7 +16,8 @@ body {
   -webkit-font-smoothing: antialiased !important;
 }
 
-.app {
-  width: 300px;
-  padding: 20px;
+header#main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
