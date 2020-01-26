@@ -209,3 +209,15 @@ div.bar .content .actions button {
 
   margin-right: 20px;
 }
+
+div.wrapper-content {
+  display: flex;
+}
+
+div.wrapper-content aside.profile {
+  width: 260px;
+}
+
+div.wrapper-content aside.profile {
+  width: 260px;
+}
