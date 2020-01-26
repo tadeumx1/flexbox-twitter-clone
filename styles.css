@@ -225,3 +225,15 @@ div.wrapper-content aside.profile img.avatar {
   border: 5px solid #FFF;
   margin-top: -130px;
 }
+
+div.wrapper-content aside.profile h1 {
+  font-size: 21px;
+  color: #1F2226;
+  margin-top: 10px;
+}
+
+div.wrapper-content aside.profile p {
+  font-size: 14px;
+  color: #1F2226;
+  margin-top: 15px;
+}
