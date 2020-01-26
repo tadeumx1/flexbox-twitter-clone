@@ -218,6 +218,10 @@ div.wrapper-content aside.profile {
   width: 260px;
 }
 
-div.wrapper-content aside.profile {
-  width: 260px;
+div.wrapper-content aside.profile img.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid #FFF;
+  margin-top: -130px;
 }
